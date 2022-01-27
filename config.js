@@ -20,7 +20,7 @@ runtime = process.uptime()
 teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
-global.owner = ['7922416516']// Put your number here
+global.owner = ['0', '6282160268332', '6285787944332']// Put your number here
 
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
@@ -35,7 +35,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': '9db5a5373433c015',
+  'https://api.xteam.xyz': '7a99fbd6b77336d5',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -49,8 +49,8 @@ const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
 // var sticker_name = 'I hope you\'re fine'
 //var sticker_author = 'Nurutomo'
-var sticker_name = 'X - RyuuZeyy' // ganti aja
-var sticker_author = '' // ganti aja
+var sticker_name = 'By WhatsApp Bot' // ganti aja
+var sticker_author = ' ' // ganti aja
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
@@ -85,14 +85,14 @@ gc3 = 'https://chat.whatsapp.com/I3yAMaBNA9X63FspQ5V46N'
 namaig = 'https://instagram.com/bah.raid'
 linkf = gc1
 linkff = namaig
-namabot = 'ChokiBot'
+namabot = 'Ex Bot ( Lite Vesion )'
 namagithub = 'https://github.com/RTeam1'
 gcid = '972502255007-1406453544'
-footer = 'ChokiBot'
+footer = 'ExBot'
 lolkey = 'rey2k21'
 global.wait = 'Tunggu Sebentar'
-bc = 'Choki'
-titler = '𝙍𝙚𝙖𝙡 𝙁𝙖𝙢𝙨 𝙆𝙞𝙡𝙡𝙚𝙧'
+bc = 'Ex'
+titler = '𝙂𝙖𝙡𝙖𝙭𝙮 𝙏𝙚𝙖𝙢'
 body = run
 kasihcaption = `©${namaig}\n\n©${namagithub}`
 gambar1 = tum1
