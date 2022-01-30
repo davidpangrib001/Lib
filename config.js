@@ -20,7 +20,7 @@ runtime = process.uptime()
 teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
-global.owner = ['0', '6282160268332', '6285787944332']// Put your number here
+global.owner = ['0', '6282160268332', '6282160268332', '0']// Put your number here
 
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
@@ -49,8 +49,8 @@ const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
 // var sticker_name = 'I hope you\'re fine'
 //var sticker_author = 'Nurutomo'
-var sticker_name = 'By WhatsApp Bot' // ganti aja
-var sticker_author = ' ' // ganti aja
+var sticker_name = ' ' // ganti aja
+var sticker_author = 'One Bot Lite Version' // ganti aja
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
@@ -79,20 +79,20 @@ fs.watchFile(file, () => {
 })
 
 // Tambahan By Me (RyuuZeyy)
-gc1 = 'https://chat.whatsapp.com/FJkbQjpewltErmQRwzC9rj'
-gc2 = 'https://chat.whatsapp.com/HTcmEqjQeu1GMN2xN210QJ'
-gc3 = 'https://chat.whatsapp.com/I3yAMaBNA9X63FspQ5V46N'
+gc1 = 'https://s.id/TSjx'
+gc2 = 'https://s.id/TSj9'
+gc3 = 'https://s.id/-TSiO'
 namaig = 'https://instagram.com/bah.raid'
 linkf = gc1
 linkff = namaig
 namabot = 'Ex Bot ( Lite Vesion )'
 namagithub = 'https://github.com/RTeam1'
 gcid = '972502255007-1406453544'
-footer = 'ExBot'
+footer = '𝖮𝗇𝖾 𝖡𝗈𝗍 𝖫𝗂𝗍𝖾 𝖵𝖾𝗋𝗌𝗂𝗈𝗇'
 lolkey = 'c970350d8b6c853cf77eb2bb'
 global.wait = 'Tunggu Sebentar'
-bc = 'Ex'
-titler = '𝙂𝙖𝙡𝙖𝙭𝙮 𝙏𝙚𝙖𝙢'
+bc = 'One'
+titler = '𝗢𝗻𝗲 𝗧𝗲𝗮𝗺'
 body = run
 kasihcaption = `©${namaig}\n\n©${namagithub}`
 gambar1 = tum1
